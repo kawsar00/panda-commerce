@@ -11,7 +11,6 @@
 .price{
     color: #FF136F;
 }
-
 .buy_now_button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
@@ -20,7 +19,7 @@
     padding: 9px 25px;
     border-radius: 8px;
 }
-
+/* carousel section coding end */
 .catagories h1{
     color: #fff;
 }
@@ -41,3 +40,26 @@
 .cat3{
     background-image: linear-gradient(to right, #4274FF 0%, #3713F9 100%);
 }
+/* catagories section coding end */
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+/* shoes section coding end */
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+/* backpack section coding end */
+#contactUs{
+    height: 300px;
+}
+#contactUs h6{
+    color: gray;
+}
+/* contact section coding end */
+footer{
+    text-align: center;
+}
+/* footer section coding end */
